@@ -45,6 +45,5 @@ The tests check adding a contact, finding an existing contact, handling a missin
 
 ### Screencast
 
-**Screencast link:** Replace this line with your video URL after uploading your 3–5 minute recording.
-
+**Screencast link:** https://www.loom.com/share/ba1cad3806fb4d6497c187a2065e0eba
 ```
