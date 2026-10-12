@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Contact Manager is a command-line Python application for managing a simple contact list. It allows users to add contacts, look up phone numbers, delete contacts, and exit the program. The project focuses on reliable error handling and unit testing.
+Contact Manager is a command-line Python project that manages  a simple contact list. It allows users to add contacts, look up phone numbers, delete contacts, and exit the program. The project focuses on error handling and testing.
 
 ## Features
 
